@@ -43,7 +43,7 @@ Customer churn is a critical issue for businesses as retaining existing customer
 6. **Model Evaluation**:
    - Generate confusion matrices and classification reports.
    - Visualize performance using bar plots and accuracy comparisons.
-7. **Deployment **:
+7. **Deployment**:
    - Deploy the model using Streamlit for real-time predictions.
 
 ---
