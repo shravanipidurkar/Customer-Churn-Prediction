@@ -43,11 +43,11 @@ Customer churn is a critical issue for businesses as retaining existing customer
 6. **Model Evaluation**:
    - Generate confusion matrices and classification reports.
    - Visualize performance using bar plots and accuracy comparisons.
-7. **Deployment (Optional)**:
-   - Deploy the model using Flask or Streamlit for real-time predictions.
+7. **Deployment **:
+   - Deploy the model using Streamlit for real-time predictions.
 
 ---
 
 ## Key Results
-- Achieved **X% accuracy** and **Y% F1-score** with the Random Forest model.
+- Achieved **1.0 accuracy** and **1.0 F1-score** with the Random Forest model.
 - Identified key features contributing to churn, such as tenure, monthly charges, and contract type.
